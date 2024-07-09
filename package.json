@@ -1,0 +1,14 @@
+{
+  "name": "tech_task",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "Palina Dzmitrovich",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.9",
+    "globals": "^15.8.0"
+  }
+}
